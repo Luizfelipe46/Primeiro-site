@@ -1,0 +1,153 @@
+.e28_3 { 
+	overflow:hidden;
+}
+.e28_3 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:1024px;
+	position:absolute;
+}
+.e28_4 { 
+	width:528px;
+	height:267px;
+	position:absolute;
+	left:406px;
+	top:20px;
+	background-image:url(imagens/logo_do_site_da_loja_de_motos_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e28_5 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	color:rgba(243.31249594688416, 7.096605598926544, 7.096605598926544, 1);
+	width:254px;
+	height:59px;
+	position:absolute;
+	left:543px;
+	top:258px;
+	font-family:Inter;
+	text-align:center;
+	font-size:40px;
+	letter-spacing:0;
+}
+.e28_6 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:1440px;
+	height:78px;
+	position:absolute;
+	left:0px;
+	top:331px;
+}
+.e28_6 { 
+	border:5px solid rgba(255, 0, 0, 1);
+}
+.e28_7 { 
+	color:rgba(255, 0, 0, 1);
+	width:115px;
+	height:48px;
+	position:absolute;
+	left:47px;
+	top:337px;
+	font-family:Inter;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+}
+.e28_8 { 
+	color:rgba(255, 0, 0, 1);
+	width:159px;
+	height:33px;
+	position:absolute;
+	left:264px;
+	top:337px;
+	font-family:Inter;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+}
+.e28_9 { 
+	color:rgba(255, 0, 0, 1);
+	width:226px;
+	height:18px;
+	position:absolute;
+	left:543px;
+	top:337px;
+	font-family:Inter;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+}
+.e28_10 { 
+	color:rgba(255, 0, 0, 1);
+	width:319px;
+	height:24px;
+	position:absolute;
+	left:782px;
+	top:337px;
+	font-family:Inter;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+}
+.e28_11 { 
+	color:rgba(255, 1.0624989867210388, 1.0624989867210388, 1);
+	width:314px;
+	height:24px;
+	position:absolute;
+	left:1101px;
+	top:337px;
+	font-family:Inter;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+}
+.e28_19 { 
+	width:174px;
+	height:176px;
+	position:absolute;
+	left:47px;
+	top:598px;
+	background-image:url(imagens/ducati_removebg_preview_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e28_20 { 
+	width:189px;
+	height:181px;
+	position:absolute;
+	left:257px;
+	top:604px;
+	background-image:url(imagens/bmw_removebg_preview_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e28_21 { 
+	width:213px;
+	height:167px;
+	position:absolute;
+	left:471px;
+	top:598px;
+	background-image:url(imagens/triumph_removebg_preview_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e28_22 { 
+	width:142px;
+	height:184px;
+	position:absolute;
+	left:730px;
+	top:598px;
+	background-image:url(imagens/yamanha_removebg_preview_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e28_23 { 
+	width:384px;
+	height:197px;
+	position:absolute;
+	left:872px;
+	top:591px;
+	background-image:url(imagens/honda_removebg_preview_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}

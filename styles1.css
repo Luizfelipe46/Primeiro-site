@@ -1,0 +1,172 @@
+.e14_11 { 
+	overflow:hidden;
+}
+.e14_11 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:1024px;
+	position:absolute;
+}
+.e14_12 { 
+	width:528px;
+	height:267px;
+	position:absolute;
+	left:406px;
+	top:20px;
+	background-image:url(imagens/logo_do_site_da_loja_de_motos_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e14_13 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	color:rgba(243.31249594688416, 7.096605598926544, 7.096605598926544, 1);
+	width:254px;
+	height:59px;
+	position:absolute;
+	left:543px;
+	top:258px;
+	font-family:Inter;
+	text-align:center;
+	font-size:40px;
+	letter-spacing:0;
+}
+.e14_14 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:1440px;
+	height:78px;
+	position:absolute;
+	left:0px;
+	top:331px;
+}
+.e14_14 { 
+	border:5px solid rgba(255, 0, 0, 1);
+}
+.e14_15 { 
+	color:rgba(255, 0, 0, 1);
+	width:115px;
+	height:48px;
+	position:absolute;
+	left:47px;
+	top:337px;
+	font-family:Inter;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+}
+.e14_16 { 
+	color:rgba(255, 0, 0, 1);
+	width:159px;
+	height:33px;
+	position:absolute;
+	left:259px;
+	top:337px;
+	font-family:Inter;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+}
+.e14_17 { 
+	color:rgba(255, 0, 0, 1);
+	width:226px;
+	height:18px;
+	position:absolute;
+	left:543px;
+	top:337px;
+	font-family:Inter;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+}
+.e14_18 { 
+	color:rgba(255, 0, 0, 1);
+	width:319px;
+	height:24px;
+	position:absolute;
+	left:782px;
+	top:337px;
+	font-family:Inter;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+}
+.e14_19 { 
+	color:rgba(255, 1.0624989867210388, 1.0624989867210388, 1);
+	width:314px;
+	height:24px;
+	position:absolute;
+	left:1101px;
+	top:337px;
+	font-family:Inter;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+}
+.e14_20 { 
+	width:560px;
+	height:405px;
+	position:absolute;
+	left:21px;
+	top:488px;
+	background-image:url(imagens/multistrada_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e14_21 { 
+	transform: rotate(-0.48700934264378726deg);
+	color:rgba(0, 0, 0, 1);
+	width:534.7855834960938px;
+	height:54.442806243896484px;
+	position:absolute;
+	left:21px;
+	top:435.54559326171875px;
+	font-family:Inter;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+}
+.e14_22 { 
+	color:rgba(0, 0, 0, 1);
+	width:476px;
+	height:115px;
+	position:absolute;
+	left:21px;
+	top:909px;
+	font-family:Inter;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+}
+.e14_23 { 
+	width:553px;
+	height:405px;
+	position:absolute;
+	left:752px;
+	top:488px;
+	background-image:url(imagens/panigale_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e14_24 { 
+	color:rgba(0, 0, 0, 1);
+	width:471px;
+	height:45px;
+	position:absolute;
+	left:752px;
+	top:431px;
+	font-family:Inter;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+}
+.e14_25 { 
+	color:rgba(0, 0, 0, 1);
+	width:482px;
+	height:80px;
+	position:absolute;
+	left:752px;
+	top:909px;
+	font-family:Inter;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+}
